@@ -1,0 +1,25 @@
+.section{
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px #333;
+}
+
+
+
+.section__title {
+    margin: 0;
+    font-size: 20px;
+}
+
+
+
+.section__header {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+

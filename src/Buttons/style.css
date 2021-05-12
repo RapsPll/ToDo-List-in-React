@@ -1,0 +1,13 @@
+.buttons {
+    display: flex;
+}
+
+.buttons__button {
+    border: none;
+    background-color: transparent;
+    color: teal;
+}
+
+.buttons__button:disabled {
+    color: #ccc;
+}
