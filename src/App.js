@@ -8,7 +8,7 @@ import Container from './Container'
 
 const tasks = [
   {id: 1, content:'coś', done: true},
-  {id: 2, content:'coś coś', done: false},
+  {id: 2, content:'coś coś coś', done: false},
 ];
 
 const hideDoneTasks = false;
